@@ -11,6 +11,6 @@ I am Vishwas Patel, currently pursuing B.tech, to be completed by 2022, I love e
 4. [Project spot](https://coolprojecthub.herokuapp.com/registration/), Upload your project's info, screenshots and deployemnet link and follow other with similar interest.
 <hr>
 
-💜 Would love to collaborate with people working on interection of web development and machine learning
+💜 Would love to collaborate with people working on intersection of web development and machine learning
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=manupatel007&show_icons=true)
